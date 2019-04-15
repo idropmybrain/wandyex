@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.content {
+  height: 86vh;
+  font-size: 14px;
+}
+
+.p-10px {
+  padding: 10px;
+}
+
+.p-20px {
+  padding: 20px;
+}
+
+.pt-10px {
+  padding-top: 10px;
+}
+
+.pb-10px {
+  padding-bottom: 10px;
+}
+
+.pr-10px {
+  padding-right: 10px;
+}
+
+.pl-10px {
+  padding-left: 10px;
+}
+
+.mt-10px {
+  margin-top: 10px;
+}
+
+.mt-20px {
+  margin-top: 20px;
+}
+
+.mb-10px {
+  margin-bottom: 10px;
+}
+
+.mr-10px {
+  margin-right: 10px;
+}
+
+.ml-10px {
+  margin-left: 10px;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.w-300px {
+  width: 300px;
+}
+
+.w-200px {
+  width: 200px;
+}
+
+.h-400px {
+  height: 400px;
+}
+
+.h-300px {
+  height: 300px;
+}
+
+.h-90pc {
+  height: 90%;
+}
+
+.w-20pc {
+  width: 20%;
+}
+
+.w-100pc {
+  width: 100%;
+}
+
+.w-75pc {
+  width: 75%
+}
+
+.h-75pc {
+  height: 75%
+}
+
+.w-80pc {
+  width: 80%;
+}
+
+.o-auto {
+  overflow-y: auto
+}
+
+.h-25px {
+  height: 25px;
+}
+
+.h-40px {
+  height: 40px  ;
+}
+
+.h-86vh {
+  height: 86vh;
+}
+
+.btnPrim {
+  cursor: pointer;
+  text-align: center;
+  min-width: 70px;
+  border: 1px solid rgba(40, 40, 40, .8);
+  border-radius: 3px;
+  text-decoration: none;
+  color: rgba(40, 40, 40, .8);
+  background-color: #fff;
+  padding: 5px;
+}
+
+.btnPrim:hover {
+  padding: 5px;
+  color: #fff;
+  background-color: rgba(40, 40, 40, .8);
+}
+
+.btnSec {
+  cursor: pointer;
+  min-width: 70px;
+  padding: 5px;
+  border: 1px solid rgba(40, 40, 40, .8);
+  border-radius: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(40, 40, 40, .8);
+}
+
+.btnNeg {
+  cursor: pointer;
+  min-width: 70px;
+  padding: 5px;
+  border: 1px solid red;
+  border-radius: 3px;
+  text-decoration: none;
+  color: red;
+  background-color: #fff;
+}
+
+.df {
+  display: flex;
+}
+
+.fdc {
+  flex-direction: column;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.jcs {
+  justify-content: start;
+}
+
+.jcsa {
+  justify-content: space-around;
+}
+
+.jcb {
+  justify-content: space-between
+}
+
+.aic {
+  align-items: center;
+}
+
+.ais {
+  align-items: start;
+}
+
+.fw {
+  flex-wrap: wrap;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.bordRad {
+  border-radius: 3px;
+}
+
+.bgSec {
+  background: rgba(40, 40, 40, .8);
+}
+
+.tcw {
+  color: #fff; 
+}
+
+.tc {
+  text-align: center;
+}
+
+.cp {
+  cursor: pointer;
+}

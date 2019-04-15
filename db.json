@@ -1,0 +1,32 @@
+{
+  "videos": [
+    {
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "title": "Big Buck Bunny",
+      "id": 1,
+      "startTime": 3,
+      "endTime": 10
+    },
+    {
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "title": "Elephant Dream",
+      "id": 2,
+      "startTime": 4,
+      "endTime": 9
+    },
+    {
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "title": "For Bigger Blazes",
+      "id": 3,
+      "startTime": 5,
+      "endTime": 8
+    },
+    {
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "title": "For Bigger Escape",
+      "id": 4,
+      "startTime": 6,
+      "endTime": 7
+    }
+  ]
+}
